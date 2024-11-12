@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axel-lukongo&show_icons=true&locale=en&layout=compact" alt="axel-lukongo" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-lukongo&langs_count=8&layout=compact&theme=radical" alt="Top Languages" /></p>
